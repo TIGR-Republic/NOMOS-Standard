@@ -111,6 +111,7 @@ NOMOS is provided “as is”, without warranties or guarantees of any kind.
 It is an experimental governance standard under active development.  
 Nothing in this repository constitutes legal advice, financial advice, or a guarantee of regulatory compliance.  
 Users, developers, and institutions adopting NOMOS are responsible for ensuring their own legal and operational compliance within their jurisdictions.
+Research and development in this phase are managed by Tenis Dubeč s.r.o., ID: 23653281.
 
 ---
 
