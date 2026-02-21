@@ -4,8 +4,8 @@ A universal standard for digital democracy — built on legal integrity (EU/CZ),
 
 ---
 
-Date: February 21, 2026
-Status: Internal R&D / Technical Preview
+- Date: February 21, 2026
+- Status: Internal R&D / Technical Preview
 
 ## Overview
 
