@@ -111,8 +111,6 @@ NOMOS is an open standard. Contributions are welcome in:
 
 ## Disclaimer
 
-## Disclaimer
-
 NOMOS is provided “as is”, without warranties or guarantees of any kind, whether express or implied. It is an experimental governance standard under active development and may contain errors, omissions, security vulnerabilities, or incomplete features. Nothing in this repository constitutes legal advice, financial advice, investment advice, or a guarantee of regulatory compliance.
 
 Any use, implementation, modification, or integration of NOMOS is performed at the user’s own risk. Users, developers, organizations, and institutions adopting NOMOS are solely responsible for ensuring their own legal, technical, cybersecurity, and operational compliance within their respective jurisdictions.
