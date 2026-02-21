@@ -4,6 +4,9 @@ A universal standard for digital democracy — built on legal integrity (EU/CZ),
 
 ---
 
+Date: February 21, 2026
+Status: Internal R&D / Technical Preview
+
 ## Overview
 
 NOMOS is a modular governance standard enabling secure, human‑verified, censorship‑resistant, and legally grounded decision‑making. It provides the foundations for democratic systems that cannot be captured by bots, infrastructure providers, or centralized authorities.
